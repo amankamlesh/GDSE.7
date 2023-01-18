@@ -1,0 +1,29 @@
+.container mt-3{
+    background: url(menuback.jpg) no-repeat;
+}
+
+
+
+
+
+/* .back {
+   
+   
+   filter: blur(8px);
+   -webkit-filter: blur(8px);
+ 
+   
+   height: 100%;
+ 
+   
+   background-position: center;
+   background-repeat: no-repeat;
+
+  
+
+    box-sizing: border-box;
+    background: url(back.jpeg) no-repeat;
+    background-size:cover ;
+    
+    height: auto;
+} */
